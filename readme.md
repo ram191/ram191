@@ -15,6 +15,7 @@ I'm a software engineer from Indonesia. I love building backends with Go, but I 
 
 ## 📊 My Coding stats ...
 
-<img src="https://wakatime.com/share/@018df41b-fac2-49d7-a4f2-68d4ad574c01/eea2d6e6-5333-49d8-a71f-53f4e1fd8f56.svg"></img>
-
-<img src="https://wakatime.com/share/@018df41b-fac2-49d7-a4f2-68d4ad574c01/9c846b30-a6a9-467d-a097-e4414b795514.svg"></img>
+<p>
+<img src="https://wakatime.com/share/@018df41b-fac2-49d7-a4f2-68d4ad574c01/eea2d6e6-5333-49d8-a71f-53f4e1fd8f56.svg" height="320" width="420"></img>
+<img src="https://wakatime.com/share/@018df41b-fac2-49d7-a4f2-68d4ad574c01/9c846b30-a6a9-467d-a097-e4414b795514.svg" height="320" width="420"></img>
+</p>
