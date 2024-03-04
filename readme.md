@@ -1,6 +1,6 @@
 # Hi there, I'm Ram 👋
 
-I'm a software engineer from Indonesia. I love building web applications with many languages and frameworks, but I do love Golang even more. I'm also interested in Linguistics and AI implementations in nowadays various use cases.
+I'm a software engineer from Indonesia. I love building web applications with many languages and frameworks. I'm also interested in Linguistics and AI implementations in nowadays various use cases.
 
 ## 🔭 I’m currently working on ...
 
