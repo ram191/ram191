@@ -2,8 +2,16 @@
 
 I'm a software engineer from Indonesia. I love building backends with Go, but I also have experience with many languages and frameworks as well. I'm also interested in Computer Science, Linguistics and AI implementations in nowadays various use cases.
 
+## 🔭 My previous projects are ...
+
+- Web scraper for bank mutations
+- Livescore web application for sport events
+- SaaS application for finance
+- Telegram bots
+
 ## 🔭 I’m currently working on ...
 
+- Configuring Neovim for eternity
 - My blog post in ram191.com
 - A music studio rental website in bookingstudio.id
 - And an automated blog in blog.bookingstudio.com
