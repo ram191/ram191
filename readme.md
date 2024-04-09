@@ -12,9 +12,9 @@ I'm a software engineer from Indonesia. I love building backends with Go, but I 
 ## 🔭 I’m currently working on ...
 
 - Configuring Neovim for eternity
-- My blog post in ram191.com
-- A music studio rental website in bookingstudio.id
-- And an automated blog in blog.bookingstudio.com
+- My blog post in https://ram191.com
+- A music studio rental website in https://bookingstudio.id
+- And an automated blog in https://blog.bookingstudio.com
 
 ## 📫 How to reach me ...
 
