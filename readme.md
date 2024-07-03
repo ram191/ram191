@@ -1,6 +1,6 @@
 # Hi there, I'm Ram 👋
 
-I'm a software engineer from Indonesia. I love building backends with Go, but I also have experience with many languages and frameworks as well. I'm also interested in Computer Science, Linguistics and AI implementations in nowadays various use cases.
+I'm a software engineer from Indonesia. I love building backends with Go, but I also have experience with many languages and frameworks as well.
 
 ## 🔭 My previous projects are ...
 
@@ -8,13 +8,6 @@ I'm a software engineer from Indonesia. I love building backends with Go, but I 
 - Livescore web application for sport events
 - SaaS application for finance
 - Telegram bots
-
-## 🔭 I’m currently working on ...
-
-- Configuring Neovim for eternity
-- My blog post in https://ram191.com
-- A music studio rental website in https://bookingstudio.id
-- And an automated blog in https://blog.bookingstudio.com
 
 ## 📫 How to reach me ...
 
