@@ -1,13 +1,18 @@
 # Hi there, I'm Ram 👋
 
-I'm a software engineer from Indonesia. I love building backends with Go, but I also have experience with many languages and frameworks as well.
+I'm a self-taught software engineer with 4 years of professional experience, and I'm super passionate about web development and DevOps. I love diving into projects that let me create cool, efficient web solutions.
 
-## 🔭 My previous projects are ...
+I'm all about bridging the gap between dev and ops, using modern DevOps practices to make things run smoother and faster. CI/CD, automation, and cloud stuff are right up my alley.
 
-- Web scraper for bank mutations
-- Livescore web application for sport events
-- SaaS application for finance
-- Telegram bots
+When it comes to coding, Neovim is my go-to tool. I have a blast tweaking and customizing it to build the perfect IDE for my needs. It’s all about making my workflow as fun and productive as possible.
+
+## 🔭 I have experience with ...
+
+- Serving web application from a simple web server to Kubernetes environment
+- Google Cloud Platform (GCP)
+- Typescript, React, NextJS for frontend development
+- Go, Typescript, PHP for backend development
+- Tinkering NVIM configuration
 
 ## 📫 How to reach me ...
 
