@@ -1,6 +1,6 @@
 # Hi there, I'm Ram 👋
 
-I'm a self-taught software engineer with 4 years of professional experience, and I'm super passionate about web development and DevOps. I love diving into projects that let me create cool, efficient web solutions.
+I'm a self-taught software engineer with >5 years of professional experience, and I'm super passionate about web development and DevOps. I love diving into projects that let me create cool, efficient web solutions.
 
 I'm all about bridging the gap between dev and ops, using modern DevOps practices to make things run smoother and faster. CI/CD, automation, and cloud stuff are right up my alley.
 
